@@ -109,6 +109,10 @@ p {
 	color: #b6ab42;
 }
 
+.footer-nav .nav-link:hover {
+	color: #b6ab42;
+}
+
 .copy {
 	font-size: .5rem;
 }
